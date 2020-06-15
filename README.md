@@ -1,5 +1,5 @@
 # Master thesis "Automatic Pleonasm Detection in Russian"
-### Higher School of Economics, Computational Linguistics, 2020
+## Higher School of Economics, Computational Linguistics, 2020
 
 The work introduces the first automated system of pleonasm detection in Russian
 
